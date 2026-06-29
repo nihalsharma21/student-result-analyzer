@@ -25,7 +25,6 @@ student-result-analyzer/
 ├── students.csv
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 
 ## Installation
 
